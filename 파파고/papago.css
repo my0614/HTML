@@ -1,0 +1,481 @@
+body {
+    margin: 0px;
+}
+header{
+    border-bottom: 1px solid #E6E6E6;
+    word-spacing: cm;
+    height: 74px;
+    padding: 0 32px;
+}
+
+#logo
+{
+width: 123px; height: 34px;
+padding-top:  20px;
+float: left;
+}
+li {
+margin-left:15px;
+vertical-align: middle;
+font-size : 17px;
+list-style: none;
+display: inline;
+font-family:  Noto Sans,Noto Sans JP,Noto Sans KR,Helvetica,Microsoft YaHei,Apple SD Gothic Neo,Malgun Gothic,맑은 고딕,Dotum,돋움,sans-serif;
+}
+#headertable{
+  cursor: pointer;
+  text-decoration: none;
+color : black;
+
+}
+
+#icon {
+    float: right;
+    word-spacing: 1cm;
+    width: 30px;
+    height: 30px;
+   margin-top : 15px;
+    padding : 8px;
+   line-height: 25px;
+}
+
+#button{
+    border : 1px solid #e5e5e5;
+    background-color: white;
+    float : right; 
+    margin-top: 27px;
+    cursor: pointer;
+    font-family: '나눔고딕',NanumGothic,
+    '돋움',Dotum,'Apple SD Gothic Neo',Helvetica,Sans-serif !important;
+    width: 46px; height : 20px;
+    color: #777;
+    font-size: 12px;
+    padding: 1px;
+    text-align: center;
+}
+
+.translate{
+    margin-right :0%;
+     color: #444;
+     font-size: 18px;
+    display: block;
+    line-height: 55px;
+    border : 1px solid #E6E6E6;
+    width: 633px;
+    height: 56px;
+    margin : 65px 10px 0px 320px;
+    font-family:  Sans,Noto Sans JP,Noto Sans KR,Helvetica,Microsoft YaHei,Apple SD Gothic Neo,Malgun Gothic,맑은 고딕,Dotum,돋움,sans-serif;
+}
+
+
+.translate2{
+    color: #444;
+    font-size: 18px;
+   display: block;
+   line-height: 55px;
+   border : 1px solid #E6E6E6;
+   width: 633px;
+   height: 56px;
+   margin : 65px 10px 0px 180px;
+   font-family:  Sans,Noto Sans JP,Noto Sans KR,Helvetica,Microsoft YaHei,Apple SD Gothic Neo,Malgun Gothic,맑은 고딕,Dotum,돋움,sans-serif;
+}
+#box{
+    width: 593px;
+    height: 210px;
+    border : 1px solid #E6E6E6;
+    margin : 0px 10px 0px 320px;
+    padding: 28px 20px 63px 20px;
+    color : black;
+    font-size: 30px;
+    resize: none;
+    border-top : none;
+    margin-right :0px;
+    
+}
+
+#box2{
+    width: 593px;
+    height: 210px;
+    border : 1px solid #E6E6E6;
+    margin : 0px 10px 0px 320px;
+    padding: 28px 20px 63px 20px;
+    color : black;
+    font-size: 30px;
+    resize: none;
+    border-top : none;
+    margin-right :0px;
+    margin-left :180px;
+    
+}
+
+#ch
+{
+    background: none;
+    border : none;
+    width: 54px;
+    height: 42px;
+    padding : 15px 30px 10px  0px;  
+    background-size: 20px 23px;
+    cursor: pointer;
+    float : right;
+}
+#ch2
+{
+    background: none;
+    border : none;
+    width: 54px;
+    height: 42px;
+    padding : 15px 30px 10px  0px;  
+    background-size: 20px 23px;
+    cursor: pointer;
+    float : right;
+}
+#boxin{
+
+    color: black;
+    display: block;
+    font-size: 30px;
+    padding-left:260px;
+    margin-right: 0px;
+    margin-left : 60px;
+    height: 56px;
+    font-family: Noto Sans,Noto Sans JP,Noto Sans KR,Helvetica
+    ,Microsoft YaHei,Apple SD Gothic Neo,Malgun Gothic,맑은 고딕,Dotum,돋움,sans-serif;
+    
+}
+#boxin2{
+
+    color: black;
+    display: block;
+    font-size: 30px;
+    padding-left:260px;
+    margin-right: 0px;
+    margin-left : 60px;
+    height: 56px;
+    font-family: Noto Sans,Noto Sans JP,Noto Sans KR,Helvetica
+    ,Microsoft YaHei,Apple SD Gothic Neo,Malgun Gothic,맑은 고딕,Dotum,돋움,sans-serif;
+    
+}
+#boximg
+{
+    
+    border : 1px solid #E6E6E6;
+    width : 633px;
+    height: 62px;
+    margin : 0px 0px 0px 320px;
+    position: relative; top : -5px;
+    margin-right :0px;
+    
+    
+}
+#boximg2
+{
+    
+    border : 1px solid #E6E6E6;
+    width : 633px;
+    height: 62px;
+    margin : 0px 0px 0px 180px;
+    position: relative; top : -5px;
+    margin-right :0px;
+    
+    
+}
+.emo{
+    width: 36px;
+    height : 30px;
+    line-height: 26px;
+    padding : 15px 25px 15px 25px;
+    background-size: 30px 30px;
+    border-right: 1px solid #E6E6E6;
+    cursor: pointer;
+}
+
+#transbutton
+{
+    background-color: #1eda69;
+    border-radius:  2px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height:  38px;
+    padding : 0px 7px 0 13px;
+    font-family: Arial;
+    color : white;
+    border : none;
+    display: inline;
+    width: 134px;
+    height: 64px;
+    float: right;
+    cursor: pointer;
+}
+#one
+{
+    width: 800px;
+    margin-right: 300px;
+    float: center;
+    display: inline-block;
+
+
+}
+#two{
+    
+    float: left;
+    display: inline-block;
+    width: 800px;
+
+}
+p{
+    color:#bbb;
+    font-size: 18px;
+    line-height: 19px;
+    float: center;
+    
+}
+
+.switch
+{
+    display: inline-block;
+background-color:  #21dc6d;
+border-radius: 8px;
+border : 1px solid gray;
+height: 15px;
+width: 26px;
+margin: 20px 0px 0px 320px;
+border : none;
+}
+.circle
+{
+ border-radius: 100%;
+ background-color: white;
+ width: 13px;
+ height: 15px;
+ float: right;
+ display: inline-block;
+ cursor: pointer;
+}
+h3{
+font-weight: 400;
+color: #999;
+cursor: pointer;
+font-size: 14px;
+padding-left: 7px;
+padding-right: 7px;
+display: inline-block;
+line-height: 1.25em;
+font-family: Noto Sans,Noto Sans JP,Noto Sans KR,Helvetica,
+Microsoft YaHei,Apple SD Gothic Neo,Malgun Gothic,맑은 고딕,Dotum,돋움,sans-serif;
+width: 63px;
+height: 17px;
+}
+.bottom
+{
+    height : 0px;
+    margin-left : 320px;
+    border-top: 1px solid #E6E6E6;
+    padding : 107px 0px 14px 200px;
+    width : 1100px;
+    height: 34px;
+    float: center;
+    margin-right: 0px !important;
+}
+#url
+{
+    border :none;
+    border-bottom:  1px solid #E6E6E6;
+    padding : 6px 5px 6px 10px;
+    margin-left : 5px;
+    width :500px;
+    font-size: 16px;
+    display: inline-block;
+    margin-right:0px;
+    margin-right: 0px;
+}
+.bottom2
+{
+    margin-left : 0px; 
+    display: inline-block;
+    float : right;
+    margin: 0px 366px 20px 0px;
+    padding : 6px 5px 5px 0px;
+    border-bottom:  1px solid #E6E6E6;
+    cursor: pointer;
+    font-family: Noto Sans,Noto Sans JP,Noto Sans KR,Helvetica,
+    Microsoft YaHei,Apple SD Gothic Neo,Malgun Gothic,맑은 고딕,Dotum,돋움,sans-serif;
+    color: #777;
+    font-size: 14px;
+    width : 107px;
+}
+#arrow
+{
+border-radius: 100%;
+border :1px solid #777;
+width: 34px; height: 34px;
+display: inline-block;
+margin-left: 1270px;
+position: relative; top : -55px;
+cursor: pointer;
+}
+input:focus {outline:none !important;
+}
+#ad
+{
+    background-color:#fbfbfb;
+    height: 45px;
+    padding: 0px 275px 0px 320px;
+    padding-top :30px;
+    border: none;
+    border-bottom: 1px solid #E6E6E6;
+}
+.new
+{
+    border-radius: 10.5px;
+    background-color: #1caafc;
+    border : none;
+    color : white;
+    height: 17px;
+    margin-right: 12px;
+    padding : 0 6px;
+    vertical-align: middle;
+    
+
+}
+#ad2
+{
+    font-family: Noto Sans,Noto Sans JP,Noto Sans KR,Helvetica,
+    Microsoft YaHei,Apple SD Gothic Neo,Malgun Gothic,맑은 고딕,Dotum,돋움,sans-serif;
+    font-size : 13px;
+    cursor: pointer;
+    color :#444;
+    padding : 10px; 
+    padding-top : 3px !important;
+    margin-top: 20px;
+    height: 20px;
+    vertical-align: middle;
+    width: 1100px;
+}
+ul{
+    width : 500px;
+    margin :0px;
+    float: right;
+    padding: 20px;
+    height: 35px;
+    display: flex;
+}
+.img2
+{
+
+width : 15px;
+height: 15px;
+float : right;
+padding-left: 850px;
+cursor: pointer;
+padding: 10px; 
+margin-bottom : 60px;
+}
+
+.img1
+{
+
+width : 20px;
+height: 25px;
+float : right;
+padding-left: 850px;
+cursor: pointer;
+padding: 10px; 
+
+}
+#text
+{
+    vertical-align: middle;
+    margin: 0px 0 10px 0px;
+    padding: 0px;
+    letter-spacing: 0;
+    display: flex;
+    color: #444;
+    font-family: Helvetica,Apple SD Gothic Neo,sans-serif;
+    float: right;
+    height: 50px;
+    font-size: 13px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.ex{
+    color : #666;
+    font-size: 13px;
+    letter-spacing: -1px;
+    cursor: pointer;
+}
+a{
+    color: #666;
+    font-size: 13px;
+
+    text-decoration:none ;
+    width : 80px;
+    margin : 0px;
+    padding : 0px;
+    text-align: center;
+
+}
+#end
+{
+    width : 1850px;
+    padding : 20px 0px 0 300px;
+    float : left;
+    background-color:#fbfbfb;
+    display: inline-block;
+    position: relative; top : -48px;left : 5px;
+    height: 160px;
+    margin : 0px;
+    padding-bottom: 0px !important;
+    
+}
+#last
+{
+    display: inline-block;
+    height : 160px;
+}
+.button3
+{
+    border-radius: 30px;
+    width: 120px;
+    height: 36px;
+    border :none;
+    text-align: left;
+    color: #444;
+    font-size: 13px;
+    padding : 0 16px;
+    cursor: pointer;
+}
+.a:hover{
+    text-decoration: underline;
+}
+.sns
+{
+    height: 38px;
+    width : 70px;
+    float: right;
+    margin-right : 520px;
+}
+.corp
+{
+    color : #666;
+    font-size: 11px;
+    font-weight: 700;
+    text-align: left;
+    margin-left : 40px;
+   
+}
+.move
+{
+    margin-top : 20px;
+    display: inline-block;
+    cursor: pointer;
+    color : black;
+    font-size: 18px;
+    text-align: center;
+    list-style: none;
+    font-family: Noto Sans,Noto Sans JP,Noto Sans KR,Helvetica,Microsoft YaHei,
+    Apple SD Gothic Neo,Malgun Gothic,맑은 고딕,Dotum,돋움,sans-serif;
+}
