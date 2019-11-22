@@ -1,0 +1,98 @@
+
+
+h1
+{
+    text-align: center;
+    font-size: 4em;
+    font-family: 'YDI Bold';
+    color: #2d2d2d;
+    font-family: 'Indie Flower', cursive;
+    margin: 10px;
+
+}
+a{
+    text-decoration: none;
+    list-style: none;
+    margin-right: 0px;
+    width: 50px;
+  
+}
+
+header{border-bottom: 3px solid #6E6E6E;}
+#menu
+{
+   
+  list-style: none;
+  text-decoration: none;
+    width: 90px;
+    height: 90px;
+    display: inline-block;
+}
+
+li{
+    width: 200px;
+    margin: 0px;
+    display: inline-block;
+    padding : 0px;
+    color:black ;
+    font-size: 22px;
+    font-family: 'YDI Bold';
+    font-weight: 900;
+    vertical-align: middle;
+    line-height: 50px;
+}
+#money
+{
+    display: inline-block;
+    width: 400px;
+    float : right;
+    margin: 20px;
+    margin-top : 30px !important;
+}
+input
+{
+    border : none;
+    padding: 15px;
+}
+div{
+    
+    border : 1px solid  gray ;
+    width: 280px;
+    height: 400px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+#food
+{
+    width: 220px;
+    height: 270px;
+    margin: 10px;
+}
+span{
+    color: #2d2d2d;
+    font-size: 20px;
+    display: block;
+    margin: 10px 0;
+    font-weight: 600;
+}
+.hover
+{
+padding-top: 3px;
+display: inline-block;
+margin: 55px;
+margin-left: 50px;
+cursor: pointer;
+}
+#sale
+{
+    width: 80px;
+    height: 60px;
+    position: relative; top : -310px; left : -120px;
+}
+.hover:hover
+{
+    padding-top: 0;
+    border: 3px solid gray ;
+  
+}
